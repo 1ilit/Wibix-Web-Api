@@ -19,7 +19,9 @@ Open the root folder of the project to run
 Use the following commands in terminal:
 
 ```dotnet build``` to build
+
 ```dotnet run``` to run
+
 ```dotnet watch run``` to run with hot reload
 
 
